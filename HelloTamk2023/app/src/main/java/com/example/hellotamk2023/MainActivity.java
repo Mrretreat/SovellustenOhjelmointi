@@ -13,9 +13,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Luodaan referenssi käyttöliittymäelementtiin TextView
-        //TextView nameText = findViewById(R.id.nameText);
-        //nameText.setText("Hello from code");
     }
     public void buttonClicked(View view) {
         TextView nameText = findViewById(R.id.nameText);
