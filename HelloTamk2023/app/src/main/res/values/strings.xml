@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloTamk2023</string>
+    <string name="click_me">SAY HELLO</string>
+    <string name="tomi_nurmi">Tomi Nurmi</string>
+    <string name="hello_from_code">Hello from code</string>
+    <string name="click_to_say_hello">Click to say hello!</string>
+</resources>
